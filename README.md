@@ -40,124 +40,124 @@ Great! Here is a **clean, professional, beautifully formatted README.md** for yo
 28. [Limitations](#limitations)
 29. [References](#references)
 ---
-## 📝 **Introduction**
+📝 **Introduction#**
 This project focuses on predicting breast cancer (malignant or benign) using machine learning techniques. The prediction is based on diagnostic features extracted from breast mass imagery. The project uses Logistic Regression and is deployed using Flask for a user-friendly interface.
 ---
-## 📘 **Abstract**
+📘 **Abstract**
 Breast cancer is one of the most common cancers worldwide. Early prediction drastically increases survival rates. This project builds a prediction model that assists healthcare professionals by providing fast, accurate diagnostic predictions based on medical data.
 ---
-## 🎯 **Objective**
+🎯 **Objective**
 * To build a reliable machine learning model for early detection
 * To provide a lightweight web application for prediction
 * To support decision-making while reducing analysis time
 ---
-## 🔎 **Scope of the Project**
+🔎 **Scope of the Project**
 * Early cancer prediction
 * Educational & research use
 * Can be scaled using deep learning or real-time inputs
 ---
-## 📦 **Project Modules**
+📦 **Project Modules**
 * Data Preprocessing
 * Model Training (Logistic Regression)
 * Prediction Module
 * Web Interface (Flask)
 * Result Interpretation UI
 ---
-## 🧠 **System Analysis**
+🧠 **System Analysis**
 Includes problem definition, existing vs proposed system, and system workflow.
 ---
-## 📄 **Software Requirements Specification (SRS)**
+📄 **Software Requirements Specification (SRS)**
 * Functional Requirements
 * Non-functional Requirements
 * Dataset Description
 * User Interactions
 ---
-## ⚠️ **Risk Analysis**
+⚠️ **Risk Analysis**
 * Incorrect predictions
 * Dataset bias
 * Hardware limitations
 ---
-## 🔍 **Preliminary Investigation**
+🔍 **Preliminary Investigation**
 Study of existing methods, dataset suitability, and feasibility.
 ---
-## ✔️ **Feasibility Study**
+✔️ **Feasibility Study**
 * Technical Feasibility
 * Economic Feasibility
 * Operational Feasibility
 ---
-## 💰 **Cost Estimation*
+💰 **Cost Estimation**
 Estimation of development cost based on tools and resources used.
 ---
-## 🔧 **Methodology Used**
+🔧 **Methodology Used**
 * CRISP-DM or SDLC
 * Dataset Cleaning
 * Model Training
----
-## 🖥️ **Requirements**
+--
+🖥️ **Requirements**
 **Hardware:** Basic computing system
 **Software:** Python, Flask, Jupyter/VS Code
 ---
-## 🛠️ **Tools & Technologies**
+🛠️ **Tools & Technologies**
 * Python
 * Flask
 * NumPy, Pandas
 * Scikit-Learn
 * Matplotlib
 ---
-## 🏗️ **System Design**
+🏗️ **System Design**
 Includes architecture diagrams, interface design, etc.
 ---
-## 📅 **Project Planning & Gantt Chart**
+📅 **Project Planning & Gantt Chart**
 Timeline of development phases.
 ---
-## 🔄 **Data Flow Diagram**
+🔄 **Data Flow Diagram**
 Level 0, Level 1, etc.
 ---
-## 🧾 **ER Diagram**
+🧾 **ER Diagram**
 Explains database relationships (if used).
 ---
-## 💻 **Development & Coding**
+💻 **Development & Coding**
 Core ML model development, Flask backend, templates, static assets.
 ---
-## 🖼️ **Screenshots**
+🖼️ **Screenshots**
 (Add your application screenshots here)
 ---
-## 🚀 **Implementation**
+🚀 **Implementation**
 After training the model, it is integrated with Flask for deployment.
----
-## ⚙️ **Installation Steps**
+--
+⚙️ **Installation Steps**
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 Open: `http://127.0.0.1:5000/`
 ---
-## 🔄 **Data Conversion**
+🔄 **Data Conversion**
 Steps for converting raw dataset into model-ready inputs.
 ---
-## 🎓 **System Training**
+🎓 **System Training**
 Model training workflow and cross-validation.
 ---
-## 🧪 **Testing**
+🧪 **Testing**
 * Unit Testing
 * Integration Testing
 * System Testing
 ---
-## 🔐 **Security Measures**
+🔐 **Security Measures**
 * Input validation
 * Model integrity protection
 * Secure form handling
 ---
-## 🚀 **Future Scope**
+🚀 **Future Scope**
 * Deep learning integration
 * Real-time medical imaging support
 * Mobile app version
 ---
-## ⚠️ **Limitations**
+⚠️ **Limitations**
 * Dependent on dataset quality
 * Not a replacement for medical diagnosis
----
-## 📚 **References**
+--
+📚 **References**
 * UCI ML Dataset Repository
 * Scikit-Learn Documentation
 * Research papers on breast cancer classification
