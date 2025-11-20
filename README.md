@@ -1,15 +1,17 @@
 # Breast Cancer Predication Model 
 
-<a href = "Introduction & Overview">  <br>
+<a href = "Introduction & Overview">  
+<br>
 
-      1. Introduction  
+     " 1. Introduction  
       2. Abstract  
       3. Objective of the Project  
       4. Scope of the Project  
-      5. Modules of the Project  
+      5. Modules of the Project  "
 
-<a href= " Analysis & Planning">  <br>
-
+<a href= " Analysis & Planning">  
+<br>
+"
       6. System Analysis  
       7. Software Requirement Specification  
       8. Risk Analysis  
@@ -20,7 +22,7 @@
       III. Requirements  
       13. Software and Hardware Requirements  
       14. Requirement Specification  
-      15. Tools/Platform/Software and Hardware Specifications  
+      15. Tools/Platform/Software and Hardware Specifications  "
 
 <a href= "System Design">  <br>
 
